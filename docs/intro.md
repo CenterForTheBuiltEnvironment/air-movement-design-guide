@@ -18,6 +18,9 @@ The extensive use of ceiling fans in residential applications (over 80% of singl
 States have at least one ceiling fan), as demonstrated in Figure 3 below, indicates their effectiveness in
 supporting thermal comfort, and occupant demand for controllable air movement.
 
+![Number of fan per household by housing type](/img/ebook/num-fan-per-household-by-housing-type.png)
+#### Figure 3: Number of fans per household by housing unit type, data source: U.S. Energy Information Administration 2015 Residential Energy Consumption Survey
+
 This widespread applicability stems from the many benefits that ceiling fans can provide in interior
 environments.
 The key benefits of ceiling fans are as follows:
@@ -61,3 +64,39 @@ dissipating CO2 and other exhaled pollutants that would otherwise gather near oc
 conditions. Large-scale studies of occupant survey data indicate that occupants would prefer more air
 movement than they have, especially in conditions where occupants report feeling warm, as illustrated in
 Figure 4.
+
+![Occupant preference for more air movement](/img/ebook/Occupant-preference-for-more-air-movement.png)
+#### Figure 4: Occupant preference for more air movement (Data source: ASHRAE Global Thermal Comfort Database II)
+
+### First Cost Savings
+The benefits described above—thermal comfort, improved air distribution, and improved air quality—
+achieve more than just increased occupant satisfaction, they can also help reduce first costs for HVAC
+systems. Using ceiling fans to more effectively distribute air throughout a space can reduce the extent of
+distribution ductwork and diffusers required to serve a zone. Additionally, if the same zone is designed to
+a slightly higher cooling setpoint due to the comfort cooling effect provided by the fans, this can also
+reduce the required latent and sensible cooling capacity of the HVAC system, providing first cost savings
+to equipment and ductwork.
+
+### Energy Savings
+Perhaps most importantly, when implemented effectively as an integral component of a building’s
+thermal comfort strategy, ceiling fans can also result in significant energy savings by reducing the demand
+on the HVAC system. Although ceiling fans consume energy, the potential HVAC savings outweighs fan
+energy use, typically by a factor ranging between 10 and 100 times. The primary energy saving derives
+from thermal comfort benefits of ceiling fans, keeping occupants comfortable at higher temperatures and
+allowing for increased cooling setpoints. Effectively, a room with ceiling fans is thermally comfortable
+over a wider range of temperatures than a room without ceiling fans. This wider range of temperatures
+reduces the cooling and fan energy consumption of the HVAC system. Counterintuitively, this wider range
+of temperatures also reduces heating energy consumption because when a space is warmer, it will take
+longer to cool down to the heating setpoint. Lastly, when ceiling fans are used to provide air distribution, reducing the extent of distribution ductwork and diffusers, they also help reduce HVAC fan energy by
+reducing the pressure drop in the air system. The section on Modelling, Simulation and Estimating Energy
+Savings discusses these effects in more.
+
+### History
+Methods of increasing air speeds to produce a cooling effect have been in use for centuries, from the
+most rudimentary handheld fans to more elaborate systems of sail-like fabric sheets or wooden panels
+mounted to ceilings. Ceiling-mounted “punkah” fans, like those shown in Figure 5, were common in
+places like colonial India and the Antebellum South in the US, and were manually operated with ropes
+pulled by servants or enslaved people. For a more localized cooling effect, there were also fan chairs like
+the one used by George Washington, as shown in Figure 5.
+![Historical fan technologies](/img/ebook/historical-fan-technology.png)
+#### Figure 5: Historical fan technologies
