@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Fan Types
+# Fan Types (new)
 
 Suggestion of some fan types
 
