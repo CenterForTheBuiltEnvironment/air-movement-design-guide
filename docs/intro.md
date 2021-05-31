@@ -9,9 +9,9 @@ ceiling fans into building systems. It introduces the advantages of using ceilin
 fans work, provides guidance and resources for designing spaces with ceiling fans and specifying ceiling
 fan products.
 
-## Benefits Of Ceiling Fans
+## Benefits Of Elevated Air Speed Devices
 
-Ceiling fans are more than just a basic amenity for residential applications. Increasingly, ceiling fans are
+Elevated air speed devices (such as ceiling fan, desk fan, pedestal fan) are more than just a basic amenity for residential applications. Increasingly, ceiling fans are
 found in applications varying from industrial and warehouse applications to offices and high-end
 hospitality settings, and everything in between.
 The extensive use of ceiling fans in residential applications (over 80% of single family homes in the United
