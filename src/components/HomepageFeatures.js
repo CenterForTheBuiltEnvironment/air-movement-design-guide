@@ -26,7 +26,7 @@ const FeatureList = [
     imageUrl: '../../static/img/aircon.jpg',
     description: (
       <>
-        Air conditioners consume more than 100 the energy needed to run fans.
+        Air conditioners consume more than 100 times the energy needed to run fans.
       </>
     ),
   },

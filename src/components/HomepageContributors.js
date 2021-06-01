@@ -14,7 +14,7 @@ const ContributorsList = [
   {
     name: <>Toby Cheung</>,
     imageUrl: "img/toby.jpg",
-    role: <>XXX</>,
+    role: <>Co-author, Website developer</>,
     profession: <>Postdoctoral scholar at SinBerBEST</>,
     link: "https://scholar.google.com.sg/citations?user=3aKU-lIAAAAJ&hl=en",
   },
