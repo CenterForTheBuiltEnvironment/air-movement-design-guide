@@ -12,4 +12,4 @@ energy savings is that when the cooling setpoint is higher, temperatures in the 
 during the day than without ceiling fans, and this reduces morning warmup (and sometimes reheat)
 energy consumption. For rapid estimates, the CBE Setpoint Savings Calculator will estimate the energy
 savings for a particular location in the USA for a commercial office building based on EnergyPlus models.
-The web tool can be found here: [comfort.cbe.berkeley.edu/energycalc](comfort.cbe.berkeley.edu/energycalc)
+The web tool can be found [here](https://cbe.berkeley.edu/research/setpoint-energy-savings-calculator/)
