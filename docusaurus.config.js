@@ -1,19 +1,19 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'CBE - Air Movement Design Guide',
-  tagline: 'Tagline',
-  url: 'https://your-docusaurus-test-site.com',
+  tagline: 'This guide enables architects, designers, and engineers to maximize the many benefits of integrating ceiling fans into building systems.',
+  url: 'https://cbe-air-movement-design-guide.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'CenterForTheBuiltEnvironment', // Usually your GitHub org/user name.
+  projectName: 'air-movement-design-guide', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'CBE - Air Movement Design Guide',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'CBE logo',
         src: 'img/cbe_logo.png',
       },
       items: [
@@ -24,38 +24,34 @@ module.exports = {
           label: 'Design Guide',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/CenterForTheBuiltEnvironment/air-movement-design-guide',
           label: 'GitHub',
           position: 'right',
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: 'light',
       links: [
         {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Design guide',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Partners',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: "Center for the Built Environment",
+              href: "https://cbe.berkeley.edu",
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: "SinBerBEST",
+              href: "https://sinberbest.berkeley.edu",
             },
           ],
         },
@@ -63,12 +59,16 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'Updates',
               to: '/blog',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: "GitHub",
+              href: "https://github.com/CenterForTheBuiltEnvironment/air-movement-design-guide",
+            },
+            {
+              label: "Twitter",
+              href: "https://twitter.com/FedericoTartar1",
             },
           ],
         },
@@ -84,13 +84,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/CenterForTheBuiltEnvironment/air-movement-design-guide',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/CenterForTheBuiltEnvironment/air-movement-design-guide/tree/master/blog',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
