@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # System Interface
 
-Relocated from the original guide p47
+**Relocated from the original guide p47**
 
 A key part of the success of any ceiling fan installation is ensuring that occupants understand the purpose
 and use of the ceiling fans.
@@ -20,3 +20,8 @@ instructions encouraging occupants to adjust ceiling fan settings when they are 
 reducing thermostat setpoints. Two examples of occupant interface information plaques are provided in
 the images below. Figure 36 shows a simple plaque with basic recommendations, while Figure 37 is an
 example of more detailed user information.
+
+**Figure 36: Example of simple information plaque that can be posted near fan controls and thermostats to encourage ceiling fan
+use and energy savings**
+
+**Figure 37: Example of a more detailed information plaque for occupant interface and control recommendations**
