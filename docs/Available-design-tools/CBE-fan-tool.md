@@ -15,3 +15,5 @@ within each fan cell, and ideal mounting heights, as shown in Figure 42 and Figu
 
 The CBE Ceiling Fan Design Tool takes into account many of the design factors discussed in the sections
 above. For more details on how the tool functions, please consult the online User Guide.
+
+(Add figure 43 - 45)

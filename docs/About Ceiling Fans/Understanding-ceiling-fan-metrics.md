@@ -28,11 +28,15 @@ even if they have the same diameter. Comparing the TypeG and TypeF fans, of equa
 clear that the range of performance varies by fan type. The TypeG fan has a higher maximum airflow, a
 lower minimum airflow, and a higher rotational speed for any particular airflow point.
 
+(Add Figure 14)
+
 For any particular fan, airflow is linear with rotational speed, as Figure 15 also shows. Additionally, the air
 speed at any point in the space is also directly linear with fan rotational speed. So, if a point in the room
 measures 100 fpm when the fan is rotating at 80 rpm, it will measure approximately 50 fpm at 40 rpm.
 This relationship begins to break down at very low air speed, very low rotational speeds, or where the fan
 blade height is unusually far from the floor (e.g. > 10 ft).
+
+(Add Figure 15)
 
 ## Power and Fan Efficacy
 The power consumed by a fan increases in proportion to the cube of its rotational speed, while the
@@ -68,6 +72,8 @@ diameter, as Figure 18 shows. This also demonstrates that there is a wide range 
 fans can operate at or below 20% of their maximum rotational speed, while others cannot run below 50%
 of their maximum rotational speed. This is also apparent in the MAEDbS data, as shown in Figure 19.
 
+(Add Figure 16 - 19)
+
 ## Minimum Efficiency Level for Large Ceiling Fan (new)
 
 ## Airflow
@@ -78,6 +84,8 @@ federally regulated under 10 CFR 430 Appendix U. For standard fans, the rating i
 modified EnergyStar method, which infers airflow from an anemometer traverse below the fan. For large
 diameter fans (above 7ft), the rating is determined by the AMCA 230-15 test method, which infers airflow
 from a load cell measurement of fan.
+
+(Add Figure 20)
 
 ## Fan Air Speed (modify)
 The fan air speed is calculated by dividing the rated airflow of the fan by its diameter. It represents the
@@ -94,7 +102,9 @@ metric instead of the rated airflow (see Figure 20), one can directly compare fa
 the diameter differs substantially. This is useful in cases when the design target is the maximum airspeed
 directly underneath the fan.
 
-On top of original information, make it clearer that you can scale airflow by rpm.
+(On top of original information, make it clearer that you can scale airflow by rpm.)
+
+(Add Figure 21)
 
 ## Levels of Speed Control (modify)
 Most standard fans typically have a number of fixed fan speed levels. Though some of these fans have a
@@ -115,7 +125,9 @@ enough that it generates low air speeds directly under the fan. A reasonable app
 minimum fan air speed should be below 0.4 m/s (80 fpm), or a 3 °F cooling effect at the minimum
 allowed blade height, depending on the specifics of the application (see Applications section, below).
 
-Controllability through a wide range of airspeed is important
+(Controllability through a wide range of airspeed is important)
+
+(Add Figure 22)
 
 ## EPA Tests on Small Ceiling Fan (new)
 

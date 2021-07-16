@@ -170,3 +170,5 @@ a concern and less airflow is needed.
 On the other hand, gear-driven fans allow for higher motor power and are often used in situations where
 maximizing airflow is a priority over sound levels or aesthetics. This is well suited for industrial settings
 where ceilings are high and there is little or no air conditioning.
+
+(Add Figure 13)

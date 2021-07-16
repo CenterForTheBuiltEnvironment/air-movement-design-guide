@@ -51,6 +51,8 @@ Some fans may also be controlled through building automation
 system interface. This approach may be ideal for applications where access to fan control needs to be
 limited to building management and maintenance staff, such as assembly and hospitality spaces.
 
+(Add Figure 33)
+
 A sample of ceiling fan controls are shown above, demonstrating that many are not particularly clear to
 the user. For example, the controls are not labeled as controlling the ceiling fan and as such are
 indistinguishable from a dimmable light switch in many cases.
@@ -158,3 +160,5 @@ downwards at the same speed in the same room. In cases where the blade geometry 
 blades, or inverted blades), the area weighted average airspeed was approximately 60-70% that of the
 downwards case. Obstructions in the flow from the fan (e.g., furniture, ceiling obstructions, etc.) will likely
 have a significant effect on these percentages.
+
+(Add Figure 36)
