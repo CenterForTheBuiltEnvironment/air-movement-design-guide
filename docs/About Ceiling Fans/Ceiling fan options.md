@@ -120,10 +120,7 @@ airflow when doing so. Some fan models have blades that can be manually attached
 or can mechanically invert the blade while it is attached to the fan, which allows for improved efficiency
 when operating in reverse.
 
-### Flat Blade
-
-### Airfoil Blade
-
+(add Figure 12)
 
 The number of blades is an important factor in increasing airflow of ceiling fans. Although increasing the
 number of blades will increase airflow, the increased weight and drag due to the blades can cause a loss
